@@ -124,12 +124,3 @@ Donut chart showing distribution across:
 
 ---
 
-## 🚀 How to Use This Repo
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/PannPwintPhyu/Superstore-Analytics-Dashboard.git
-
-
-
-   ub.com/PannPwintPhyu/Superstore-Analytics-Dashboard.git
