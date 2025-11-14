@@ -1,6 +1,7 @@
 # Superstore Analytics Dashboard (Power BI)
 
-Welcome to the **Superstore Analytics Project** repository.
+🚀 Welcome to the **Superstore Analytics Project** repository.
+
 This project is an interactive Dashboard built in **Power BI**, using the public Kaggle Superstore dataset.  
 The dashboard answers key business questions around **sales performance**, **profitability**, **returns**, and **customer segmentation**.
 
@@ -16,7 +17,7 @@ You can interact with the live dashboard here:
 
 ---
 
-## 🎯 Business Questions Answered
+##  Business Questions Answered
 
 1. **Key Metrics:**  
    Sales, Profit, % Returned Orders, and **% change vs Previous Year (PY)**
@@ -47,7 +48,7 @@ You can interact with the live dashboard here:
 
 ---
 
-## 🧹 Data Preparation & Modeling
+##  Data Preparation & Modeling
 
 In Power BI:
 
@@ -96,7 +97,7 @@ Donut chart showing distribution across:
 
 ---
 
-## 🔍 Key Insights (From Dashboard)
+##  Key Insights (From Dashboard)
 
 - Total **Sales:** $2.3M  
 - Total **Profit:** $292.3K  
@@ -110,7 +111,7 @@ Donut chart showing distribution across:
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - **Power BI** (main tool)
 - **DAX** for time intelligence & measures
