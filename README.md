@@ -52,7 +52,7 @@ You can interact with the live dashboard here:
 
 In Power Query:
 
-✔ Remove Columns 
+✔ Remove Columns                                                                                                                                                       
 ✔ First Row as Header
 
 In Power BI:
